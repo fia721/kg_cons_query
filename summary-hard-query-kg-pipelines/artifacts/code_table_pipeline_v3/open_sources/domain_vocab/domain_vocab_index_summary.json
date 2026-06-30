@@ -1,0 +1,10 @@
+{
+  "manifest": "/mlx_devbox/users/yuantongfei/playground/kg_build_data/artifacts/code_table_pipeline_v3/open_sources/domain_vocab/domain_vocab_download_manifest.jsonl",
+  "index": "/mlx_devbox/users/yuantongfei/playground/kg_build_data/artifacts/code_table_pipeline_v3/open_sources/domain_vocab/index/domain_vocab_terms.jsonl",
+  "num_specs": 19,
+  "num_downloaded_or_existing": 0,
+  "num_failed": 34,
+  "num_downloaded_terms": 0,
+  "num_bootstrap_terms": 9,
+  "num_index_terms": 9
+}
